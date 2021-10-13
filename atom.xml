@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jinqing1107.github.io/</id>
     <title>小青合成</title>
-    <updated>2021-10-09T08:30:36.807Z</updated>
+    <updated>2021-10-13T13:16:46.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jinqing1107.github.io/"/>
     <link rel="self" href="https://jinqing1107.github.io/atom.xml"/>
@@ -10,6 +10,46 @@
     <logo>https://jinqing1107.github.io/images/avatar.png</logo>
     <icon>https://jinqing1107.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小青合成</rights>
+    <entry>
+        <title type="html"><![CDATA[日常]]></title>
+        <id>https://jinqing1107.github.io/post/ri-chang/</id>
+        <link href="https://jinqing1107.github.io/post/ri-chang/">
+        </link>
+        <updated>2021-10-13T13:03:02.000Z</updated>
+        <content type="html"><![CDATA[<p>小屋<br>
+二人<br>
+窗外的世界<br>
+一片朦胧<br>
+哈出一口气<br>
+蜷缩在被窝<br>
+彼此嬉笑着<br>
+早餐吃什么<br>
+牛奶加面包</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[殚精竭虑]]></title>
+        <id>https://jinqing1107.github.io/post/dan-jing-jie-lu/</id>
+        <link href="https://jinqing1107.github.io/post/dan-jing-jie-lu/">
+        </link>
+        <updated>2021-10-11T07:55:37.000Z</updated>
+        <content type="html"><![CDATA[<p>昨晚回新余的时候，哭了。<br>
+突然觉得到头来，还是自己一个人。<br>
+首先我父母这边，嫁出去的女儿泼出去的水，这说的就是现实；其次，未来婆家那边，做的再怎么样，还是隔了一层纱；最后，他有他的想法，我有我的做法，权衡不了。<br>
+金簪掉进里头，是你的就是你的。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随想]]></title>
+        <id>https://jinqing1107.github.io/post/sui-xiang/</id>
+        <link href="https://jinqing1107.github.io/post/sui-xiang/">
+        </link>
+        <updated>2021-10-11T07:47:45.000Z</updated>
+        <content type="html"><![CDATA[<p>我们经常会遇到这样的人：偶尔在学校碰到朋友，两个人都喜欢说东西，一个负责说，一个负责听，这就够了是吧？<br>
+当然不是，两个人在交流的时候，都是彼此的聆听者与诉说者，而不是你说完了你的想法之后，就一概不搭理，互相尊重是最起码的礼仪。<br>
+其实朋友之间的相处也是，不要连最起码的尊重都给不了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爱自己]]></title>
         <id>https://jinqing1107.github.io/post/ai-zi-ji/</id>
@@ -76,19 +116,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[毕业后的我们]]></title>
-        <id>https://jinqing1107.github.io/post/bi-ye-hou-de-wo-men/</id>
-        <link href="https://jinqing1107.github.io/post/bi-ye-hou-de-wo-men/">
-        </link>
-        <updated>2021-06-16T15:37:30.000Z</updated>
-        <content type="html"><![CDATA[<p><em>象哥哥已经毕业了，我明年这个时候不出什么意外的话也毕业了。</em><br>
-<em>他会先找一份工作稳定下来，是的，先打好基础，再去续建自己的精神宝塔。 我们俩的专业不同，一个是技术，一个是理论，我们各自的道路也不同，他的路稍微更宽一些，而我的就十分的狭窄。<br>
-平常人家的孩子只能靠自己，不敢奢望大富大贵，只求小康保平安。</em><br>
-象哥哥会继续考博，提升自己的专业水准，再者就是工资会更加优待一些。我的话，估计就是考老师这个职位，继续我自己的学习之旅。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杂记]]></title>
+        <title type="html"><![CDATA[爱恨情仇]]></title>
         <id>https://jinqing1107.github.io/post/za-ji/</id>
         <link href="https://jinqing1107.github.io/post/za-ji/">
         </link>
@@ -96,22 +124,6 @@
         <content type="html"><![CDATA[<h1 id="失心语">失心语</h1>
 <p>二人，休语，绵泪；<br>
 爱之切，伤之切；无道慰君心，怀味抚宁神。因二不回一，泪目穿其情。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小猪杂谈]]></title>
-        <id>https://jinqing1107.github.io/post/xiao-zhu-za-tan/</id>
-        <link href="https://jinqing1107.github.io/post/xiao-zhu-za-tan/">
-        </link>
-        <updated>2021-05-28T10:03:02.000Z</updated>
-        <content type="html"><![CDATA[<p><em>浅谈不同作曲家的音乐风格</em><br>
-    <em>各个作曲家它们的风格是不一样的，因为他们的经历不同，他们的思想不一样，他们的创作观念也不同，所呈现的作品我们一听了然。巴赫的音乐带有深沉的韵味，莫扎特的音乐一向给你十分快乐、明朗的曲调，贝多芬的音乐则是带有个人的强烈色彩，柏辽兹的音乐是一种很沉重的东西在里面，以及其他著名的作曲家的音乐风格...............</em><br>
-    题外话，为什么说浅谈呢，因为我觉得自己还没有能力去谈这些音乐家的风格，我对他们的了解实在是太少了，我觉得最让人无法接受的便是我还是西方音乐史这个专业的学生，挺可笑的，我不说其他学这个专业的人怎么样，我就是觉得自己不能不想吃学习的苦，所以以后我就会知道现实会多么残酷了。<br>
-    从一个二本考研到一本，应该说我本该努力好好提升自己的专业水平，但是就在我学习了一年之后，研二的时光，一件事情的发生，让我彻底怀疑自己的能力，我是否适合读这个专业，我因为这件事十分抗拒上专业课，因为我怕自己在上课时哭出来，我现在的唯一诉求就是好好毕个业，拿到文凭就万事大吉了。由此可见，一年的时光，我眼里的微光没了..........<br>
-    最初我反思了自己，是我自己的问题。因为读研其实跟我们上大学不一样了，此时的学习是个人的学习，导师给你一个建议以后，剩下的百分之八十全部靠自己完成，但是我的思想习惯还是停留在以前，导致自己根本拿不出任何新的点子跟老师去探讨、交流，所以我才会焦虑、厌学，其他的事因也不想多说。（只有自己可以解救自己)<br>
-    三年的时光，太快了，我还未来得及听完一个时期的作品，它就结束了。<br>
-    不埋怨其他人，是自己不够努力，不想吃学习的苦，才会这样怨天尤人。<br>
-    下一刻，还是坚守本分吧，不吃学习的苦，未来的苦有的吃了。</p>
 ]]></content>
     </entry>
     <entry>
