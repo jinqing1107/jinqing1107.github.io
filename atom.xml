@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jinqing1107.github.io/</id>
     <title>小青合成</title>
-    <updated>2021-12-25T07:14:48.098Z</updated>
+    <updated>2021-12-25T07:15:48.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jinqing1107.github.io/"/>
     <link rel="self" href="https://jinqing1107.github.io/atom.xml"/>
@@ -30,16 +30,6 @@
         <updated>2021-12-08T06:49:31.000Z</updated>
         <content type="html"><![CDATA[<p>面如死灰，而瞳孔笑靥如生；<br>
 险恶之处，弥漫欢声笑语。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无题]]></title>
-        <id>https://jinqing1107.github.io/post/wu-ti/</id>
-        <link href="https://jinqing1107.github.io/post/wu-ti/">
-        </link>
-        <updated>2021-12-08T06:39:41.000Z</updated>
-        <content type="html"><![CDATA[<p>陈聪就是这样，很容易喜欢一个人，对待自己喜欢的人就掏心掏肺的好，如果分手了，他也会对下一个掏心掏肺的好，不要指望自己是一个特例，我已经早就妥协了，好像感情就是这么一回事，不能太较真。<br>
-并不对未来把抱有太大的期望，我早就看见被生活搞得面目全非的样子了，像是一个死人。</p>
 ]]></content>
     </entry>
     <entry>
@@ -156,6 +146,17 @@
  所以在我上研一的时候，我就努力去读书、看书，我为了证明自己不是很差的一个人，很早起来学习，我当时应该是喜欢我的选择的，绝对的，要不然我不会觉得沉闷，当我学习了一段时间，我回过头来发现我都不知自己选的东西是什么，我就一味的闷在书里面看、看、看。结果变成木头了。<br>
   我当时应该要明白，我热爱的东西是不是音乐？我什么都不明白的在这里耗费时间，真是天真的我。<br>
 时间太短暂了，能找到自己热爱的东西太难了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱恨情仇]]></title>
+        <id>https://jinqing1107.github.io/post/za-ji/</id>
+        <link href="https://jinqing1107.github.io/post/za-ji/">
+        </link>
+        <updated>2021-06-05T02:50:41.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="失心语">失心语</h1>
+<p>二人，休语，绵泪；<br>
+爱之切，伤之切；无道慰君心，怀味抚宁神。因二不回一，泪目穿其情。</p>
 ]]></content>
     </entry>
 </feed>
