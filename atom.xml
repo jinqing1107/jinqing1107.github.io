@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jinqing1107.github.io/</id>
     <title>小青合成</title>
-    <updated>2021-12-25T07:15:48.229Z</updated>
+    <updated>2021-12-27T09:00:27.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jinqing1107.github.io/"/>
     <link rel="self" href="https://jinqing1107.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://jinqing1107.github.io/images/avatar.png</logo>
     <icon>https://jinqing1107.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小青合成</rights>
+    <entry>
+        <title type="html"><![CDATA[为自己而已]]></title>
+        <id>https://jinqing1107.github.io/post/wei-zi-ji-er-yi/</id>
+        <link href="https://jinqing1107.github.io/post/wei-zi-ji-er-yi/">
+        </link>
+        <updated>2021-12-27T08:49:10.000Z</updated>
+        <content type="html"><![CDATA[<p>爱情不是生活的全部，但没有爱情的生活倒也欢喜不来。<br>
+因为自卑，所以极度缺乏安全感，害怕这个害怕那个，一度过的十分累。<br>
+我不喜欢这样的自己，太loser。<br>
+有时候又觉得沉默是金，能不说话就不说话。<br>
+我的焦虑来自工作，能力太差，无法匹配合适的工作；还有一个就是容貌、身材焦虑，吃多了就会有罪恶感，真的太遭罪。<br>
+生活就是一团乱麻，每天活着就是来理清它，没别的。<br>
+当别人说你不行的时候，你不能后退！<br>
+能力不行，就去多练；身材不好，就去锻炼。<br>
+别人越说，你就越要证明自己可以。<br>
+因为为自己而已！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不问世事]]></title>
         <id>https://jinqing1107.github.io/post/bu-wen-shi-shi/</id>
@@ -146,17 +164,6 @@
  所以在我上研一的时候，我就努力去读书、看书，我为了证明自己不是很差的一个人，很早起来学习，我当时应该是喜欢我的选择的，绝对的，要不然我不会觉得沉闷，当我学习了一段时间，我回过头来发现我都不知自己选的东西是什么，我就一味的闷在书里面看、看、看。结果变成木头了。<br>
   我当时应该要明白，我热爱的东西是不是音乐？我什么都不明白的在这里耗费时间，真是天真的我。<br>
 时间太短暂了，能找到自己热爱的东西太难了。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱恨情仇]]></title>
-        <id>https://jinqing1107.github.io/post/za-ji/</id>
-        <link href="https://jinqing1107.github.io/post/za-ji/">
-        </link>
-        <updated>2021-06-05T02:50:41.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="失心语">失心语</h1>
-<p>二人，休语，绵泪；<br>
-爱之切，伤之切；无道慰君心，怀味抚宁神。因二不回一，泪目穿其情。</p>
 ]]></content>
     </entry>
 </feed>
