@@ -2,14 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jinqing1107.github.io/</id>
     <title>小青合成</title>
-    <updated>2021-12-27T09:10:12.278Z</updated>
+    <updated>2022-01-30T01:29:53.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jinqing1107.github.io/"/>
     <link rel="self" href="https://jinqing1107.github.io/atom.xml"/>
     <subtitle>小白兔，白又白。</subtitle>
     <logo>https://jinqing1107.github.io/images/avatar.png</logo>
     <icon>https://jinqing1107.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 小青合成</rights>
+    <rights>All rights reserved 2022, 小青合成</rights>
+    <entry>
+        <title type="html"><![CDATA[架空]]></title>
+        <id>https://jinqing1107.github.io/post/jia-kong/</id>
+        <link href="https://jinqing1107.github.io/post/jia-kong/">
+        </link>
+        <updated>2022-01-25T04:07:52.000Z</updated>
+        <content type="html"><![CDATA[<p>&quot;没有意思“<br>
+”那生活不总是有趣的呀“<br>
+”好吧.....“<br>
+无所谓的爱情，根本就是无目的的行走，一旦碰壁就想着立马调头；<br>
+两个人的需求不同，他们的心境也不同，包括眼泪。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一点一滴]]></title>
         <id>https://jinqing1107.github.io/post/yi-dian-yi-di/</id>
@@ -143,21 +156,6 @@
 <p>    * 也许，人生下来就是受苦来的，你所做的一切就是让你去开心，你要去做什么东西，才能让自己开心。</p>
 <!-- more -->
 <p>    *   🤡 有些人愿意生活在表象里，有些人连活在表象里的机会都没有，就像是被困在城堡中的傀儡一样，被思想禁锢，被表象欺诈。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[滥滥之行]]></title>
-        <id>https://jinqing1107.github.io/post/lan-lan-zhi-xing/</id>
-        <link href="https://jinqing1107.github.io/post/lan-lan-zhi-xing/">
-        </link>
-        <updated>2021-09-06T01:09:10.000Z</updated>
-        <summary type="html"><![CDATA[<p>喧嚣不过极耳，飞马梦逝。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>喧嚣不过极耳，飞马梦逝。</p>
-<!-- more -->
-<p>一方世界，人居中，债作陪，情作引，赴渺渺琉璃之所。</p>
-<!-- more -->
-<p>不及无心无驱壳者，路路可探，色色讨之，道辩。</p>
 ]]></content>
     </entry>
 </feed>
