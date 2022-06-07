@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jinqing1107.github.io/</id>
     <title>小青合成</title>
-    <updated>2022-06-07T04:13:14.870Z</updated>
+    <updated>2022-06-07T08:31:06.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jinqing1107.github.io/"/>
     <link rel="self" href="https://jinqing1107.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://jinqing1107.github.io/images/avatar.png</logo>
     <icon>https://jinqing1107.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 小青合成</rights>
+    <entry>
+        <title type="html"><![CDATA[假传奇]]></title>
+        <id>https://jinqing1107.github.io/post/jia-chuan-qi/</id>
+        <link href="https://jinqing1107.github.io/post/jia-chuan-qi/">
+        </link>
+        <updated>2022-06-07T04:26:17.000Z</updated>
+        <content type="html"><![CDATA[<p>四十年前的一个冬天，路上行人颇少，一个少女急匆匆走在路上，她的眼里看不出一丝</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简叙]]></title>
+        <id>https://jinqing1107.github.io/post/jian-xu/</id>
+        <link href="https://jinqing1107.github.io/post/jian-xu/">
+        </link>
+        <updated>2022-06-07T04:15:05.000Z</updated>
+        <content type="html"><![CDATA[<p>应该比较难吧，我没有基础，就这样胡乱写的话，会不会觉得不合乎逻辑?<br>
+我觉得我得搭建一个框架，而不是胡乱写。<br>
+首先明确这是一个短篇小说；时间、地点、人物、事件，这是最基本的要求；其次就是中心主题，主要想表达什么，这是一篇小说的要求。<br>
+记叙说；最近发生的事情、四口之家。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[xxx]]></title>
         <id>https://jinqing1107.github.io/post/xxx/</id>
@@ -118,46 +139,6 @@
         <updated>2021-12-08T06:49:31.000Z</updated>
         <content type="html"><![CDATA[<p>面如死灰，而瞳孔笑靥如生；<br>
 险恶之处，弥漫欢声笑语。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[懵逼]]></title>
-        <id>https://jinqing1107.github.io/post/meng-bi/</id>
-        <link href="https://jinqing1107.github.io/post/meng-bi/">
-        </link>
-        <updated>2021-11-12T14:05:17.000Z</updated>
-        <summary type="html"><![CDATA[<p>恍惚恍惚，突然间觉得自己不是学音乐的。<br>
-总说总想，就是不肯下功夫。<br>
-我对音乐根本就什么都不了解，真的不配叫学习音乐的。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>恍惚恍惚，突然间觉得自己不是学音乐的。<br>
-总说总想，就是不肯下功夫。<br>
-我对音乐根本就什么都不了解，真的不配叫学习音乐的。</p>
-<!-- more -->
-<p>当我没有任何利益去学习一门东西时，我认为它就是一朵花，我很喜欢它，乐意分享。<br>
-生活的富足体现在爱，内心的富足体现在温饱的精神层面。<br>
-我现在很幸福。</p>
-<!-- more -->
-<p>我不自信，所以害怕失败，但是我觉得自己有些方面还是可以的，我挺喜欢的。</p>
-<!-- more -->
-<p>时间早晚不是问题，珍惜当下。😁</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日常]]></title>
-        <id>https://jinqing1107.github.io/post/ri-chang/</id>
-        <link href="https://jinqing1107.github.io/post/ri-chang/">
-        </link>
-        <updated>2021-10-13T13:03:02.000Z</updated>
-        <content type="html"><![CDATA[<p>小屋<br>
-二人<br>
-窗外的世界<br>
-一片朦胧<br>
-哈出一口气<br>
-蜷缩在被窝<br>
-彼此嬉笑着<br>
-早餐吃什么<br>
-牛奶加面包</p>
 ]]></content>
     </entry>
 </feed>
