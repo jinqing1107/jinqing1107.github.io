@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jinqing1107.github.io/</id>
     <title>小青合成</title>
-    <updated>2022-06-07T08:31:06.428Z</updated>
+    <updated>2022-06-11T14:53:21.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jinqing1107.github.io/"/>
     <link rel="self" href="https://jinqing1107.github.io/atom.xml"/>
@@ -11,12 +11,34 @@
     <icon>https://jinqing1107.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 小青合成</rights>
     <entry>
+        <title type="html"><![CDATA[无脑大儿]]></title>
+        <id>https://jinqing1107.github.io/post/wu-nao-da-er/</id>
+        <link href="https://jinqing1107.github.io/post/wu-nao-da-er/">
+        </link>
+        <updated>2022-06-11T14:08:06.000Z</updated>
+        <content type="html"><![CDATA[<p>无趣之人，也可现于学富五车者；有趣之侠，可见于乡野村夫。</p>
+<h1 id="情非情">情非情</h1>
+<p>足下；<br>
+粪土猖狂，匿于暗涌<br>
+随风散，随雨临<br>
+不见其影，但闻其味<br>
+飘飘洒洒，酣畅至极<br>
+立邦之锁，城府奥妙<br>
+涂灵千古，千古成舟<br>
+夜叉索命，嗤笑孤行<br>
+已化烟灰，何惧风云</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[假传奇]]></title>
         <id>https://jinqing1107.github.io/post/jia-chuan-qi/</id>
         <link href="https://jinqing1107.github.io/post/jia-chuan-qi/">
         </link>
         <updated>2022-06-07T04:26:17.000Z</updated>
-        <content type="html"><![CDATA[<p>四十年前的一个冬天，路上行人颇少，一个少女急匆匆走在路上，她的眼里看不出一丝</p>
+        <content type="html"><![CDATA[<p>腊月之际，月牙悄上；庄上已然入睡，只听外面细细簌簌，一名十七八岁女孩怀抱婴孩，敲响了一家门铃.........</p>
+<p>这家夫妻生了一女孩，为儿女双全名声趋之若鹜，一心求儿，奈何接连生的几胎不到一年便夭折。<br>
+一天晚上，他俩在做求子一事后，妻子阿怜跟丈夫守中商量要不也领养一个男孩，冲冲喜。守中一直抽着烟，眼睛只盯着一处看，作为村书记，原则在他看来至关重要，如果他今天答应了妻子，今后若有什么问题，村上的人又该怎么看他，盯着盯着就索性躺下了，只有屋外雪簌簌的声音算是给阿怜的回应。<br>
+第二天晌午，守中从外劳作回来时，发现家里静悄悄一片，也不见女儿彤彤的身影，连声叫了几遍妻子后，守中把草帽顺势就丢在了竹床上，</p>
 ]]></content>
     </entry>
     <entry>
@@ -129,16 +151,6 @@
 我也觉得，既然找不到自己喜欢的东西，你就把自己当下的生活过好就可以了。<br>
 我也不清楚，自己以后是否还会坚持选的这条路，不问世事，坚持读下去，因为从未开始，所以就没有结束。<br>
 我还是遵从本心，继续学下去。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[窒息]]></title>
-        <id>https://jinqing1107.github.io/post/zhi-xi/</id>
-        <link href="https://jinqing1107.github.io/post/zhi-xi/">
-        </link>
-        <updated>2021-12-08T06:49:31.000Z</updated>
-        <content type="html"><![CDATA[<p>面如死灰，而瞳孔笑靥如生；<br>
-险恶之处，弥漫欢声笑语。</p>
 ]]></content>
     </entry>
 </feed>
